@@ -8,5 +8,7 @@ Le réseau de neurones est entrainé à l'aide de l'algorithme du gradient stoch
 
 # Remarques
 Pour des soucis de simplicité et n'étant pas le coeur du projet, le fichier permettant de charger les données de MNIST a été tiré du travail de Michael Nielsen. 
+
 Les résultats et le taux de succès sont ceux attendus avec des paramètres de référence (c'est-à-dire un réseau de neurones ayant trois couches de tailles 784, 30 et 10, 30 epochs, une longueur d'échantillon de 10 et un taux d'apprentissage de 3).
+
 Ce travail n'a pour objectif que d'être une introduction au sujet, et ne cherche donc pas à être optimal. 
